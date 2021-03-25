@@ -1,1 +1,1 @@
-# dip-imageprocess
+# dip-imgprocess
